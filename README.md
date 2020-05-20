@@ -1,2 +1,0 @@
-# IdeaConfiguration
-IdeaConfiguration
