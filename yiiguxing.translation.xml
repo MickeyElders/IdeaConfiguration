@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="* What went wrong: Execution failed for task ':bimgis-module-cms:bimgis-module-cms-scgs-connect:bimgis-module-cms-scgs-connect-local:compileJava'." />
       <item value="* What went wrong: A problem occurred configuring project ':bimgis-app-cms'. &gt; Could not resolve all artifacts for configuration ':bimgis-app-cms:classpath'. &gt; Could not download spring-boot-gradle-plugin-1.5.13.RELEASE.jar (org.springframework.boot:spring-boot-gradle-plugin:1.5.13.RELEASE): No cached version available for offline mode &gt; Could not download spring-boot-loader-tools-1.5.13.RELEASE.jar (org.springframework.boot:spring-boot-loader-tools:1.5.13.RELEASE): No cached version available for offline mode &gt; Could not download dependency-management-plugin-1.0.5.RELEASE.jar (io.spring.gradle:dependency-management-plugin:1.0.5.RELEASE): No cached version available for offline mode &gt; Could not download spring-core-4.3.17.RELEASE.jar (org.springframework:spring-core:4.3.17.RELEASE): No cached version available for offline mode" />
     </histories>
     <option name="languageScores">
